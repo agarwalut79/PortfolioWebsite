@@ -1,0 +1,16 @@
+{
+    "NAME": "Utkarsh Agarwal",
+    "GITHUB": "https://github.com/agarwalut79",
+    "LINKEDIN":"https://www.linkedin.com/in/utkarsh-agarwal-8b2330136",
+    "ABOUT_ME": "A B.Tech. Undergraduate student at Thapar Institute of Engineering and Technology, Utkarsh has worked on various projects in diferent fields involving IOTs. He has also been a part of various societies and NGOs in college as well as in Patiala.",
+    "LANGUAGES":[
+        "C++",
+        "Java",
+        "Python"
+    ],
+    "PROJECTS":[
+            ["filter_drama","Automated Printer","A low-cost up-gradation of normal printers to smart printers \nDevelopment using Raspberry Pi "],
+            ["place","PUC Project: Pollution Under Control","A low-cost pollution monitoring device for vehicles.Developed Raspberry Pi robust and reliable hardware, that can be attached to exhausts of vehicles."],
+            ["whatshot","Thapar Social","A social-cum Academic platform for Thapar University. Designed APIs, backend, and deployed on scalable dynos on Heroku."]
+    ]
+}
